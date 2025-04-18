@@ -1,12 +1,35 @@
-## Hi there 👋
+# Industrial Asynchronous Environment Surveillance (IAES)
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The **Industrial Asynchronous Environment Surveillance (IAES)** team is a student-driven initiative at the **University of Arizona**. We have developed the **Facilities Management Security Operations Center (SOC)** , focusing on monitoring and responding to network traffic anomalies, environmental telemetry, and infrastructure integrity issues across campus facilities.
+
+---
+
+##  Core Focus Areas
+
+- **Asynchronous Event Detection**
+  Custom monitoring agents and logic-based systems that minimize false positives and prioritize mission-critical alerts.
+
+- **Sensor & Network Integration**
+  Ingest and correlate data from IoT sensors, and building automation systems.
+
+- **Visualization & Dashboards**
+  Building custom interfaces for SOC analysts to gain actionable insights from physical and digital telemetry.
+
+- **Threat Intelligence**
+  Support for early-stage detection of anomalies in both network traffic and environmental behavior.
+
+---
+
+## Technologies & Tools
+
+- **Languages:** Python · Bash
+- **Platforms:** Linux (Manjaro, Ubuntu) · Docker 
+- **Tooling:** Wireshark
+- **Security:** Zeek · Suricata · ELK Stack
+
+---
+
